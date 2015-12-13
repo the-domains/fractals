@@ -1,0 +1,28 @@
+name: Fractals
+favicon: null
+layout_spectrum: 0.7561791206244379
+typography_spectrum: 0.4853688469156623
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.31875957548618317
+  lightness: 0.7656244887039065
+  saturation: 0.07567382766865194
+  rhythmicContrast: 0.9009594658855349
+purpose: []
