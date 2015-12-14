@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Fractal Ramblings]]></title>
         <description><![CDATA[Fractal Ramblings]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/fractals/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Dec 2015 03:51:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Dec 2015 03:52:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fractals/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Hello</p>]]></description>
+            <link>https://thegrid.ai/fractals/75f6456f-1c69-484f-a25d-556265deb982/index.html</link>
+            <guid isPermaLink="false">75f6456f-1c69-484f-a25d-556265deb982</guid>
+            <pubDate>Mon, 14 Dec 2015 03:51:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Hello 2</p>]]></description>
-            <link>undefined65ac527b-9082-40d9-a1b2-82f1573fc30d/index.html</link>
+            <link>https://thegrid.ai/fractals/65ac527b-9082-40d9-a1b2-82f1573fc30d/index.html</link>
             <guid isPermaLink="false">65ac527b-9082-40d9-a1b2-82f1573fc30d</guid>
             <pubDate>Mon, 14 Dec 2015 03:51:25 GMT</pubDate>
         </item>
