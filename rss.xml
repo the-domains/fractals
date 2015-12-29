@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Fractal Testings]]></title>
         <description><![CDATA[Fractal Testings]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/fractals/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Dec 2015 22:04:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Dec 2015 22:25:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fractals/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Test]]></title>
+            <description><![CDATA[<article><h1>Test</h1><p>The Dutch micropayment platform for articles is taking off in spectacular fashion. Its foray into the German market delivers another proof of publishers' interest in the kind of business model Blendle embodies. But, down the road, Blendle sees itself as the main transactional infrastructure provider for quality journalism.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/87ac7beff27fe92961df4a5adb8d5de579bb0633.jpg"></article>]]></description>
+            <link>http://qz.com/517209/theres-actually-a-startup-that-is-making-micropayments-for-journalism-work/</link>
+            <guid isPermaLink="false">4c7f32d3-99d5-4dca-a789-75df573efc5b</guid>
+            <pubDate>Tue, 29 Dec 2015 22:25:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Home]]></title>
             <description><![CDATA[<article><h1>Home</h1><p>To Come</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/182aff0bef8709f31b511b10cc847333f4462e23.jpg"></article>]]></description>
-            <link>undefinedhome/index.html</link>
+            <link>https://thegrid.ai/fractals/home/index.html</link>
             <guid isPermaLink="false">3d6fdb30-8141-44a2-9959-a19af275f60f</guid>
             <pubDate>Mon, 14 Dec 2015 22:04:45 GMT</pubDate>
         </item>
