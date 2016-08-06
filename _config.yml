@@ -1,5 +1,8 @@
+name: Fractals
+favicon: null
+layout_spectrum: 0.7561791206244379
+typography_spectrum: 0.2698145
 title: Fractal Testings
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.375
-  brandStrength: 0
-  rhythmicContrast: 0.9009594658855349
   brandColors:
     - '#f58465'
     - '#485b90'
     - '#bba9a7'
     - '#fdd8be'
     - '#0f0606'
-  lightness: 0.3125
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: Fractals
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.2698145
-layout_spectrum: 0.7561791206244379
+  brandStrength: 0.9375
+  lightness: 0.875
+  saturation: 0.1875
+  rhythmicContrast: 0.9009594658855349
+purpose: []
